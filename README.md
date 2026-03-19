@@ -52,7 +52,7 @@
     - DevOps, 서버 자동화, 실시간 모니터링 시스템 구축
 
 - 🚀 **현재 진행 중**
-    - [LETO](https://leto.kr/) 서비스를 준비하고 있어요
+    - [LETO](https://leto.kr/) 도메인 등록 서비스를 운영하고 있어요
     - [TEAM ARI](https://with-ari.kr/)의 아리 봇의 코드 리팩토링 및 100개 이상의 커밋으로 팀에 기여하고 있어요
     - [페더아이티](https://feather-it.com/) 회사를 운영하고 있어요
 
@@ -83,7 +83,7 @@
 
 - Email: park@hyunjun.me
 - Discord: @hypadev11
-- TG: @hypamonster
+- TG: [@hypadev11](https://t.me/hypadev11)
 ---
 
 감사합니다! 😊
