@@ -15,6 +15,7 @@ and shipping XDP-based DDoS mitigation as part of our infra stack.
 ### What I'm building
 
 - **[LETO](https://leto.kr/)** — Domain registrar & cloud platform. Go-based authoritative nameserver, anycast PoP across KR/JP.
+- **[GiGAPlus](https://gigaplus.kr)** - Game server hosting platform. Optimized for low-latency Korean gaming infrastructure.
 - **Grably** — Korean digital goods marketplace. NestJS + MariaDB + Toss Payments.
 
 ---
